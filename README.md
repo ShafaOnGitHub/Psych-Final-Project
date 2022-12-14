@@ -4,7 +4,7 @@ This study takes inspiration from the coloful dot study presented in this course
 
 
 
-1. The study overview:
+1. STUDY OVERVIEW:
 
 This study looks at how reaction time to identify dot colour changes based on the the emotional valence of facial stimuli presented before that dot.
 
@@ -12,7 +12,7 @@ This is a 3 (happy face, sad face, neutral face) by 2 (red dot, blue dot) factor
 
 
 
-2. Study Method:
+2. METHOD:
 
 First particiapants answer some demographic questions that include, age, handedness, and stress level. Then the study is explained to the 
 
@@ -26,7 +26,7 @@ has completed all trials, the study ends.
 
 
 
-3. Data output:
+3. DATA OUTPUT:
 
 The data that is recorded here is block number, trial number, dot colour, if their response was correct or incorrect, reaction time, face stimuli 
 
