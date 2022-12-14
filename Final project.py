@@ -1,5 +1,5 @@
 # filename: Final project.py
-# student name: Shafa
+# student name: Shafa Mazidi
 # Overview: This study looks at how reaction time to identify colour differs based on the valence of priming stimuli. These priming stimuli are happy, neutral, or sad valenced faces. 
 #           A state stress score is also recorded for the participant, which may act a moderator for any potential effect.
 # Purpose: The rational for this study is that alterness/attention (indexed by reaction time) is possibly affect by breif temporal mood (indexed by the priming of emotionally valenced faces) wherby 
