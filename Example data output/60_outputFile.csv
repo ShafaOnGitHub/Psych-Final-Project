@@ -1,1 +1,21 @@
-
+Block Number,Trial Number,Colour,Accuracy,Response Time,Face,Age,Handedness,Stress
+1,1,blue,Incorrect,0.5015395840164274,happy.jpg,23,left,2
+1,2,red,Correct,0.4328769160201773,sad.jpg,23,left,2
+1,3,blue,Correct,0.4072440839954652,neutral.jpg,23,left,2
+1,4,red,Correct,0.725785167014692,neutral.jpg,23,left,2
+1,5,red,Correct,0.41118399996776134,neutral.jpg,23,left,2
+1,6,red,Incorrect,0.3363836249918677,neutral.jpg,23,left,2
+1,7,blue,Incorrect,0.5017449580482207,sad.jpg,23,left,2
+1,8,red,Incorrect,0.3452214160352014,sad.jpg,23,left,2
+1,9,blue,Correct,1.0159880419960245,neutral.jpg,23,left,2
+1,10,red,Correct,1.8487753750523552,happy.jpg,23,left,2
+2,1,red,Correct,0.9413143750280142,neutral.jpg,23,left,2
+2,2,red,Correct,0.48498633300187066,happy.jpg,23,left,2
+2,3,blue,Correct,0.3098245419678278,happy.jpg,23,left,2
+2,4,blue,Correct,0.37110387498978525,neutral.jpg,23,left,2
+2,5,blue,Correct,0.477673708985094,neutral.jpg,23,left,2
+2,6,red,Correct,0.422865999978967,neutral.jpg,23,left,2
+2,7,blue,Correct,0.6017958340235054,sad.jpg,23,left,2
+2,8,blue,Correct,0.3231623750180006,happy.jpg,23,left,2
+2,9,red,Correct,0.38067416701233014,neutral.jpg,23,left,2
+2,10,blue,Correct,0.7376127919997089,sad.jpg,23,left,2
