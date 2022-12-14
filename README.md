@@ -20,6 +20,11 @@ First particiapants answer some demographic questions that include, age, handedn
 3. DATA OUTPUT:
 
 The data that is recorded here is block number, trial number, dot colour, if their response was correct or incorrect, reaction time, face stimuli 
-valence, age, handedness, and stress level. This is output into the final data frame, which then gets saved to a data file folder.    
+valence, age, handedness, and stress level. This is output into the final data frame, which then gets saved to a data file folder.   
+
+
+
+
+NOTE: Hopefully the stimulus pathways work for you. I have an folder named 'images' saved to my desktop with the images stimuli for this study. It seems to work well this way. Let me know if you have any trouble with this.  
  
 
