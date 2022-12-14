@@ -1,6 +1,6 @@
 # Psych-Final-Project
 
-This study takes inspiration from the colourful dot study presented in this course. It uses this idea, modifies how the stimuli are presented to fit this new paradigm, adds a manipulationm, and records moderating varibles. 
+This study takes inspiration from the colourful dot study presented in this course. It uses this idea, modifies how the stimuli are presented to fit this new paradigm, adds a manipulation, and records moderating varibles. 
 
 
 
